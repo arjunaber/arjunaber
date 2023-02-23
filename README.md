@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I'm Samuel Arjuna Queen Bernard, u can call me Jun.
 
 <!--
 **arjunaber/arjunaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+🎓   Studying Information System at TELKOM UNIVERSITY.
+🌱   Learning more about Fullstack Dev, Systems Design and Artificial Intelligence.
+✍️   Pursuing Coding as hobbies/side hustles
 -->
+
+🛠  Tech Stack
+
+    💻   Python Java 
+    🌐   HTML5 CSS JavaScript Bootstrap 
+    🛢   MySQL
+    ⚙️   Git GitHub
+    🔧   Visual Studio Code
+
