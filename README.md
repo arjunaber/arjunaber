@@ -1,13 +1,14 @@
 ### Hi there 👋 I'm Samuel Arjuna Queen Bernard, u can call me Jun.
-
-<!--
-**arjunaber/arjunaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻  About Me 
 
 🤔   Exploring new technologies and developing software solutions and quick hacks.
+
 🎓   Studying Information System at TELKOM UNIVERSITY.
+
 🌱   Learning more about Fullstack Dev, Systems Design and Artificial Intelligence.
+
 ✍️   Pursuing Coding as hobbies/side hustles
--->
+
 
 🛠  Tech Stack
 
@@ -16,4 +17,11 @@
     🛢   MySQL
     ⚙️   Git GitHub
     🔧   Visual Studio Code
+    
+    ### and here is my stats
+<p 
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunaber&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunaber&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunaber&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
 
