@@ -12,7 +12,7 @@
 
 🛠  Tech Stack
 
-    💻   Python Java 
+    💻   LARAVEL FULLSTACK
     🌐   HTML5 CSS JavaScript Bootstrap 
     🛢   MySQL
     ⚙️   Git GitHub
