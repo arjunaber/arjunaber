@@ -5,9 +5,9 @@
 
 🎓   Studying Information System at TELKOM UNIVERSITY.
 
-🌱   Learning more about Fullstack Dev, Systems Design and Artificial Intelligence.
+🌱   Learning more about Fullstack Dev.
 
-✍️   Pursuing Coding as hobbies/side hustles
+✍️   Pursuing Coding as hobbies
 
 
 🛠  Tech Stack
