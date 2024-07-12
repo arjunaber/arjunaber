@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunaber&label=Profile%20views&color=0e75b6&style=flat" alt="arjunaber" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://gitlab.com/arjunaber](https://gitlab.com/arjunaber)
+- 👨‍💻 All of my projects are at [https://gitlab.com/arjunaber](https://gitlab.com/arjunaber)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
