@@ -12,11 +12,12 @@
 
 🛠  Tech Stack
 
-    💻   LARAVEL FULLSTACK
-    🌐   HTML5 CSS JavaScript Bootstrap 
-    🛢   MySQL
-    ⚙️   Git GitHub
-    🔧   Visual Studio Code
+    - Fullstack Developer
+    - Laravel
+    - Docker
+    - Postgre
+    - XAMPP
+    - DBeaver
     
     ### and here is my stats
 <p 
