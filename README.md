@@ -1,13 +1,9 @@
 ### Hi there 👋 I'm Samuel Arjuna Queen Bernard, u can call me Jun.
 ### 💻  About Me 
-
-🤔   Exploring new technologies and developing software solutions and quick hacks.
-
-🎓   Studying Information System at TELKOM UNIVERSITY.
-
-🌱   Learning more about Fullstack Dev.
-
-✍️   Pursuing Coding as hobbies
+  Exploring new technologies and developing software solutions and quick hacks.
+  Studying Information System at TELKOM UNIVERSITY.
+  Learning more about Fullstack Dev.
+  Pursuing Coding as hobbies
 
 
 🛠  Tech Stack
@@ -19,10 +15,24 @@
     - XAMPP
     - DBeaver
     
-    ### and here is my stats
-<p 
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunaber&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunaber&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunaber&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
+I often use Gitlab for developer needs
+
+import requests
+
+def get_gitlab_stats(arjunaber):
+    url = f"https://gitlab.com/api/v4/users/{arjunaber}/projects"
+    response = requests.get(url)
+    if response.status_code == 200:
+        projects = response.json()
+        # Proses data proyek untuk statistik
+        return projects
+    else:
+        return None
+
+username = "your_gitlab_username"
+stats = get_gitlab_stats(username)
+if stats:
+    print(stats)
+else:
+    print("Failed to retrieve data")
 
